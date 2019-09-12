@@ -8,4 +8,4 @@ class Test01:
     def test03(self):
         print("test03被执行")
 
-        assert 1
+        assert 0
